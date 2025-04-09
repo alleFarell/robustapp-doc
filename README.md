@@ -1,8 +1,8 @@
-# 📘 RobustApp 1.0 Documentation Site
+# RobustApp 1.0 Documentation Site
 
 This project uses [MkDocs](https://www.mkdocs.org/) with the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme to build a beautiful, static documentation site.
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to get the documentation running locally.
 
@@ -44,7 +44,7 @@ mkdocs serve
 
 Then open [http://localhost:8000](http://localhost:8000) in your browser.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -56,7 +56,7 @@ Then open [http://localhost:8000](http://localhost:8000) in your browser.
 └── README.md          # This file
 ```
 
-## 🛠 Useful Commands
+## Useful Commands
 
 - **Start local dev server**:
 
@@ -75,12 +75,12 @@ Then open [http://localhost:8000](http://localhost:8000) in your browser.
   mkdocs gh-deploy
   ```
 
-## 🙋‍♂️ Troubleshooting
+## Troubleshooting
 
 - Make sure you're using **Python 3.7+**
 - If `mkdocs` command isn't found, ensure your virtual environment is activated
 - If you clone and run into issues, try deleting the `venv/` and reinstalling with the steps above
 
-## 📄 License
+## License
 
 This project is open-sourced under the MIT License. See the LICENSE file for more details.
