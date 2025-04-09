@@ -71,8 +71,14 @@ Then open [http://localhost:8000](http://localhost:8000) in your browser.
   ```
 
 - **Deploy to GitHub Pages** (optional):
+
   ```bash
   mkdocs gh-deploy
+  ```
+
+- **GitHub Token Authentication for Deployment** (optional):
+  ```bash
+  git remote set-url origin https://<token>@github.com/<username>/<repository>
   ```
 
 ## Troubleshooting
