@@ -1,6 +1,7 @@
 site_name: Robustapp Docs
 site_description: Documentation for Robustapp – a robust and scalable application.
 site_author: Robustapp Team
+site_url: https://alleFarell.github.io/robustapp-doc
 
 nav:
   - Home: index.md
