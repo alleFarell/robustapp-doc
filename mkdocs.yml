@@ -1,5 +1,37 @@
 site_name: Robustapp Docs
+site_description: Documentation for Robustapp – a robust and scalable application.
+site_author: Robustapp Team
+
 nav:
   - Home: index.md
+  - Getting Started:
+      - Introduction: getting-started/introduction.md
+      - Installation: getting-started/installation.md
+  - Features:
+      - Overview: features/overview.md
+      - Configuration: features/configuration.md
+  - Training:
+      - SQL Training:
+          - Introduction to Databases: training/sql/01-introduction-to-databases.md
+          - Basic SQL Queries: training/sql/02-basic-sql-queries.md
+          - Working with Multiple Tables: training/sql/03-working-with-multiple-tables.md
+          - DML (Data Manipulation): training/sql/04-dml.md
+          - DDL (Data Definition): training/sql/05-ddl.md
+          - Aggregate Functions: training/sql/06-aggregate-functions.md
+          - Subqueries and Nested Selects: training/sql/07-subqueries.md
+          - SQL Functions and Expressions: training/sql/08-sql-functions.md
+          - Practice and Assessment: training/sql/09-practice-assessment.md
+      - Java Training:
+          - Introduction to Java: training/java/01-introduction-to-java.md
+          - Java Basics: training/java/02-java-basics.md
+          - Object-Oriented Programming: training/java/03-oop-concepts.md
+          - Exception Handling: training/java/04-exception-handling.md
+          - Java Collections: training/java/05-java-collections.md
+          - Working with Files: training/java/06-working-with-files.md
+          - JDBC and Database Integration: training/java/07-jdbc-database-integration.md
+          - Java for ERP: training/java/08-java-for-erp.md
+          - Final Project and Assessment: training/java/09-final-project-assessment.md
   - About: about.md
-theme: readthedocs
+
+theme:
+  name: material
