@@ -12,6 +12,8 @@ nav:
       - Overview: features/overview.md
       - Configuration: features/configuration.md
   - Training:
+      - Introduction: training/training-introduction.md
+      - Installation: training/training-installation.md
       - SQL Training:
           - Introduction to Databases: training/sql/01-introduction-to-databases.md
           - Basic SQL Queries: training/sql/02-basic-sql-queries.md
