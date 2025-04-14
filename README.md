@@ -10,7 +10,6 @@ Follow these steps to get the documentation running locally.
 
 ```bash
 git clone https://github.com/alleFarell/robustapp-doc.git
-cd robustapp-doc
 ```
 
 Then enter the directory
