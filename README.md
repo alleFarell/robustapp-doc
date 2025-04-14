@@ -13,6 +13,11 @@ git clone https://github.com/alleFarell/robustapp-doc.git
 cd robustapp-doc
 ```
 
+Then enter the directory
+```bash
+cd robustapp-doc
+```
+
 ### 2. Create a Virtual Environment
 
 ```bash
